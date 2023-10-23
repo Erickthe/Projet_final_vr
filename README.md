@@ -10,3 +10,5 @@ Par contre l'atmosphere du jeu sera tres différente des jeux The Room car ces j
 Pour finir le jeu, il faut trouver des crystaux d'énergie et les placer dans un terminal pour ouvrir une porte de sortie. Ces 3 crystaux sont cachés derriere les énigmes.
 
 ## Moodboard
+
+<img src="medias/" style="width: 400px;"></img>
