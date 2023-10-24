@@ -27,4 +27,4 @@ Pour finir le jeu, il faut trouver des crystaux d'énergie et les placer dans un
 
 ## Schéma de l'interaction
 
-<img src="medias/Untitled Diagram.drawio"></img>
+<img src="medias/Untitled Diagram.drawio.png"></img>
