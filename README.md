@@ -13,7 +13,7 @@ Pour finir le jeu, il faut trouver des crystaux d'énergie et les placer dans un
 
 <img src="medias/ss_3164c436ce7708dcf0f46bb4569e7f7b83ccb01e.1920x1080.jpg" style="width: 500px;"></img>
 <img src="medias/ss_eb9d1821f0f97b77d30c843ffb9ceb2ac7d91995.1920x1080.jpg" style="width: 500px; height: 375px"></img>
-<img src="medias/ss_b424e267490caf252513b4acb60f8445fc6993dc.1920x1080.jpg" style="width: 500px;"></img>
+<img src="medias/ss_b424e267490caf252513b4acb60f8445fc6993dc.1920x1080.jpg" style="width: 500px; height: 375px"></img>
 <img src="medias/etienne-trudeau-1.jpg" style="width: 500px; height: 375px"></img>
 
 
@@ -22,7 +22,7 @@ Pour finir le jeu, il faut trouver des crystaux d'énergie et les placer dans un
 
 ## Carte de l'environnement
 
-<img src="medias/"></img>
+<img src="medias/Capture d’écran 2023-10-24 073940.png"></img>
 
 
 ## Schéma de l'interaction
