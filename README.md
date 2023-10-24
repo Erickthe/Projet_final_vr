@@ -22,7 +22,7 @@ Pour finir le jeu, il faut trouver des crystaux d'énergie et les placer dans un
 
 ## Carte de l'environnement
 
-<img src="medias/"></img>
+<img src="medias/Capture d’écran 2023-10-24 083404.png"></img>
 
 
 ## Schéma de l'interaction
