@@ -17,12 +17,12 @@ Pour finir le jeu, il faut trouver des crystaux d'énergie et les placer dans un
 <img src="medias/etienne-trudeau-1.jpg" style="width: 500px; height: 375px"></img>
 
 
-[Ambiance]: (https://youtu.be/vzQvvdh3JME?si=D_E7LEU2PH_LmpcY)
+ ## [Ambiance](https://youtu.be/vzQvvdh3JME?si=D_E7LEU2PH_LmpcY)
 
 
 ## Carte de l'environnement
 
-<img src="medias/Capture d’écran 2023-10-24 073940.png"></img>
+<img src="medias/"></img>
 
 
 ## Schéma de l'interaction
